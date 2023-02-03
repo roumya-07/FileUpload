@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUpload", "FileUpload\FileUpload.csproj", "{6DB114B3-DAD7-4B7E-ACFE-33B97FB49EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploadWeb", "FileUploadWeb\FileUploadWeb.csproj", "{9F991ABC-74FC-4C0A-AF79-47AF826E6875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB114B3-DAD7-4B7E-ACFE-33B97FB49EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB114B3-DAD7-4B7E-ACFE-33B97FB49EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB114B3-DAD7-4B7E-ACFE-33B97FB49EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB114B3-DAD7-4B7E-ACFE-33B97FB49EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F991ABC-74FC-4C0A-AF79-47AF826E6875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F991ABC-74FC-4C0A-AF79-47AF826E6875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F991ABC-74FC-4C0A-AF79-47AF826E6875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F991ABC-74FC-4C0A-AF79-47AF826E6875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49BB2B9-E068-4151-9279-6AAA5AF4B4F3}
+	EndGlobalSection
+EndGlobal
